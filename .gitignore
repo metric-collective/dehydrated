@@ -6,4 +6,8 @@ hook.sh
 certs/*
 archive/*
 accounts/*
+<<<<<<< HEAD
 lock
+=======
+chains/*
+>>>>>>> e2eeaf7ec6932cdcea1e82b68630ac98a331f571
